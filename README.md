@@ -5,8 +5,8 @@
 ### What will this become?
 This is a one-page real-life chat app.<br/>
 Made for fast message sending without logging in. <br/>
-It stores your data in our DB (dataBase),<br/>
-for secure and fast data sending. Our website <br/>
+It stores your data in our DB, for secure and <br/>
+fast data sending. Our website <br/>
 is made to remember your last actions <br/>
 in our DB, so every time you go to this web app<br/>
 no log in, no waiting, just real life chatting.
