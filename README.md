@@ -1,6 +1,6 @@
 ## `This is a school project, I am working on it at school-time. this project is not online (coming soon)`
 
-<h1 align="center">stunning happines. Real-life chat website</h1>
+# Stunning happines. Real-life chat app
 
 ### What will this become?
 This is a one-page real-life chat app.<br/>
