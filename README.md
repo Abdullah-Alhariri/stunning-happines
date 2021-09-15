@@ -2,7 +2,7 @@
 
 <h1 align="center">stunning happines. Real-life chat website</h1>
 
-### What is this?
+### What will this become?
 This is a one-page real-life chat app.<br/>
 Made for fast message sending without logging in, <br/>
 it stores your data in your our DB (dataBase),<br/>
