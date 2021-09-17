@@ -2,6 +2,10 @@
 
 # Stunning happines. Real-life chat app
 
+### Some screen shots
+![screenshot](https://github.com/Abdullah-Alhariri/stunning-happines/blob/main/Screenshot%20(38).png)
+
+
 ### What will this become?
 This is a one-page real-life chat app.<br/>
 Made for fast message sending without logging in. <br/>
